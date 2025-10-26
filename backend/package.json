@@ -1,0 +1,29 @@
+{
+  "name": "castaneda-api",
+  "version": "1.0.0",
+  "description": "API REST para el proyecto de microservicios.",
+  "main": "dist/server.js",
+  "scripts": {
+    "start": "node dist/server.js",
+    "dev": "ts-node server.ts",
+    "build": "tsc"
+  },
+  "keywords": [
+    "express",
+    "mysql",
+    "typescript"
+  ],
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.19.2",
+    "mysql2": "^3.9.7"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.12.12",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
