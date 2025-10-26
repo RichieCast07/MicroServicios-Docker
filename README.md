@@ -1,7 +1,7 @@
 # 🚀 Proyecto Docker - RichieCastNotes (Microservicios)
 
 **Autor:** Richard Othon Castañeda de la Rosa  
-**Descripción:** Sistema de microservicios para la gestión de tareas (To-Do List) con CRUD completo, implementado con Docker Compose, utilizando Python/FastAPI y MySQL.
+**Descripción:** Sistema de microservicios para la gestión de tareas (To-Do List) con CRUD completo, implementado con Docker Compose, utilizando MySQL.
 
 ---
 
