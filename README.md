@@ -9,7 +9,7 @@
 
 | Servicio | Tecnología | Puerto (Local) | Rol y Comunicación |
 |----------|------------|----------------|-------------------|
-| **api-richie** | Python + FastAPI | 5000 | Backend: Lógica de negocio. Recibe peticiones del Frontend y realiza el CRUD en MySQL. |
+| **api-richie** | Node.js + TypeScript | 5000 | Backend: Lógica de negocio. Recibe peticiones del Frontend y realiza el CRUD en MySQL. |
 | **frontend-richie** | React + Tailwind | 3000 | Presentación: Interfaz web moderna (desarrollada con TSX/TS). Se comunica únicamente con el servicio api-richie. |
 | **db-mysql** | MySQL Server | 3306 | Datos: Almacenamiento persistente de las tareas. Solo accesible por el backend. |
 
