@@ -15,16 +15,6 @@
 
 ---
 
-## 🔧 Backend (Python + FastAPI)
-
-- Desarrollado en **Python puro**.
-- API RESTful para la manipulación de tareas (`/items`) usando el framework **FastAPI**.
-- Conexión a MySQL para el CRUD.
-- Validaciones de datos y manejo de errores.
-- **Puerto:** 5000
-
----
-
 ## 🎨 Frontend (React + Tailwind)
 
 - Desarrollado con **React** y tipado con **TypeScript** (archivos `.tsx` y `.ts`).
