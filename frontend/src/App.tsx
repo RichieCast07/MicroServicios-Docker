@@ -21,7 +21,7 @@ interface NewTaskData {
 }
 
 // FIX: Usamos la URL base para la comunicación con el servicio de API local
-const API_BASE_URL = 'http://localhost:5000';
+const API_BASE_URL = 'http://3.236.246.6:5000';
 
 /**
  * Componente funcional para renderizar una tarea individual, incluyendo
